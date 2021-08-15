@@ -1,2 +1,2 @@
 # garima-web
-garima web exapmples for selenium
+garima web examples for selenium
