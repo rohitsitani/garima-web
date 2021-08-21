@@ -6,4 +6,4 @@ ADD WebContent/*.* /usr/local/tomcat/webapps/garima-web/
 
 EXPOSE 8080
 
-cMD ["catalina.sh", "run"]
+CMD ["catalina.sh", "run"]
