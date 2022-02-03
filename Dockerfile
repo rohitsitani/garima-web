@@ -2,7 +2,7 @@ FROM tomcat:8.0-alpine
 
 LABEL maintainer="rohit"
 
-ADD WebContent/*.* /usr/local/tomcat/webapps/garima-web/
+ADD WebContent/*.* /usr/local/tomcat/webapps/web/
 
 EXPOSE 8080
 
