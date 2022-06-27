@@ -2,7 +2,7 @@ FROM tomcat:8.0-alpine
 
 LABEL maintainer="rohit"
 
-ADD WebContent/*.* /usr/local/tomcat/webapps/web/
+ADD WebContent/*.* /usr/local/tomcat/webapps/web-example/
 
 EXPOSE 8080
 
