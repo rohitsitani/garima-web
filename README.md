@@ -98,3 +98,6 @@ http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/manager/
 
 ### deploy to docker on AWS and then access it using below URL
 http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/web-example/
+
+### deploy to docker on AWS and then run python commands
+web-example/python
