@@ -94,4 +94,8 @@ web examples for selenium. This is the actual project readme file from here.
 - sh shell.sh
 
 ### deploy to docker on AWS and then access it using below URL
-http://ec2-13-250-99-228.ap-southeast-1.compute.amazonaws.com:8080/web-example/example1.html
+http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/manager/
+
+### deploy to docker on AWS and then access it using below URL
+http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/web-example/
+
