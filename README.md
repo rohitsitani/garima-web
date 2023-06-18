@@ -93,9 +93,8 @@ web examples for selenium. This is the actual project readme file from here.
 - cd web-example
 - sh shell.sh
 
-### deploy to docker on AWS and then access it using below URL
+### deploy to docker on AWS and acess tomcat manager (tomcat-users.xml copied into tomcat as part of Dockerfile)
 http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/manager/
 
 ### deploy to docker on AWS and then access it using below URL
 http://ec2-18-136-194-169.ap-southeast-1.compute.amazonaws.com:8080/web-example/
-
